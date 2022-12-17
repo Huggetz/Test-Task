@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02733b9386a364d4bb2651923b6a4680, type: 3}
+  m_Name: Hair List
+  m_EditorClassIdentifier: 
+  _currentHairstyleAnimator: {fileID: 22100000, guid: 47f6630e37a5e4d4c858bb71b85be984, type: 2}
+  _currentIcon: {fileID: -240298431, guid: 2f8ff6e46f632d942876c5b0e8346490, type: 3}
+  _currentStyle: 0
+  _hairstyleAnimators:
+  - {fileID: 22100000, guid: 47f6630e37a5e4d4c858bb71b85be984, type: 2}
+  - {fileID: 22100000, guid: 5ee4b73786f517f4b9c352be7481777a, type: 2}
+  _hairstyleIcons:
+  - {fileID: -240298431, guid: 2f8ff6e46f632d942876c5b0e8346490, type: 3}
+  - {fileID: 1011695224, guid: c0f73ce2f26a88f4d922ea4878f31e95, type: 3}
