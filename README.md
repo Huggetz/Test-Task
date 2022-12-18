@@ -14,3 +14,5 @@ Implemented features:
 6. Dialogue system
 
 # The unitypackage with all the assets is downloadable from this repository. The executable final build is downloadable from [here](https://github.com/Huggetz/Test-Task-Executable)
+# A short 300-word review of work done on this project is located [here](https://github.com/Huggetz/Test-Task/blob/main/Documentation.pdf)
+# A unitypackage with the latest version of the project is located [here](https://github.com/Huggetz/Test-Task/blob/main/Test%20Task%20Package.unitypackage)
