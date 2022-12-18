@@ -11,8 +11,7 @@ Implemented features:
 3. Ability to buy new clothes
 4. Clothes showing up on a character when worn
 5. Clothes preview in shop UI
+6. Dialogue system
 
-Features to implement:
-1. Dialogue system
-2. Sound system
-3. Update art and add visuals for the shop and shopkeeper
+# The unitypackage with all the assets is downloadable from this repository. The executable final build is downloadable from 
+https://github.com/Huggetz/Test-Task-Executable
