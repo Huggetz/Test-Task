@@ -13,5 +13,4 @@ Implemented features:
 5. Clothes preview in shop UI
 6. Dialogue system
 
-# The unitypackage with all the assets is downloadable from this repository. The executable final build is downloadable from 
-https://github.com/Huggetz/Test-Task-Executable
+# The unitypackage with all the assets is downloadable from this repository. The executable final build is downloadable from [here](https://github.com/Huggetz/Test-Task-Executable)
